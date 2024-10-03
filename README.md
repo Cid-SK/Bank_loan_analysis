@@ -8,8 +8,6 @@ This project involves analyzing bank loan data to extract insights and provide v
 - [Dataset](#dataset)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Streamlit Web Application](#streamlit-web-application)
-- [Getting Started](#getting-started)
-- [Contributors](#contributors)
 
 ## Technologies Used
 - Python
