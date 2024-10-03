@@ -48,9 +48,13 @@ The dataset used for this analysis includes various features related to bank loa
 ## Power BI Dashboard
 In this project, I first uploaded the dataset into SQL Server Management Studio (SSMS). In Power BI, I connected to SSMS and imported the data, then created an interactive dashboard to visualize the loan data effectively. Below are screenshots of the Power BI dashboard:
 
+<br><br>
 ![Dashboard Screenshot 1](PowerBi_screenshots/Dashboard_1(Summary).png)
+<br><br>
 ![Dashboard Screenshot 2](PowerBi_screenshots/Dashboard_2(Overview).png)
+<br><br>
 ![Dashboard Screenshot 3](PowerBi_screenshots/Dashboard_3(Details).png)
+<br><br>
 
 ## Streamlit Web Application
 The project also includes a Streamlit web application that allows users to interactively explore the loan data. Key features of the application include:
