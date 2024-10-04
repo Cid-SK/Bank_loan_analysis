@@ -328,10 +328,10 @@ elif selected_menu == "About":
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        st.image("S:/DS/projects/Bank_loan_analysis/PowerBi/Summary.png", caption="Summary", use_column_width=True)
+        st.image("PowerBi_screenshots/Dashboard_1(Summary).png", caption="Summary", use_column_width=True)
 
     with col2:
-        st.image("S:/DS/projects/Bank_loan_analysis/PowerBi/Overview.png", caption="Overview", use_column_width=True)
+        st.image("PowerBi_screenshots/Dashboard_2(Overview).png", caption="Overview", use_column_width=True)
 
     with col3:
-        st.image("S:/DS/projects/Bank_loan_analysis/PowerBi/Details.png", caption="Details", use_column_width=True)
+        st.image("PowerBi_screenshots/Dashboard_3(Details).png", caption="Details", use_column_width=True)
