@@ -4,7 +4,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Load Data
-df = pd.read_csv("S:/DS/projects/Bank_loan_analysis/financial_loan.csv")
+df = pd.read_csv("dataset.csv")
 
 # Streamlit setup
 st.set_page_config(page_title="Bank Loan Analysis", layout="wide")
