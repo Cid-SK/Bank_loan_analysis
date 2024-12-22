@@ -246,7 +246,6 @@ def loan_data_display():
     # Select specific columns
     df_selected = df[columns_to_display].copy()
     
-    # Convert issue_date to datetime and use .loc to avoid SettingWithCopyWarning
     df_selected.loc[:, 'issue_date'] = pd.to_datetime(df_selected['issue_date']).dt.date
     
     # Renaming columns
